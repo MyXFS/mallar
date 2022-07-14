@@ -1,24 +1,76 @@
-          SANA ASIGIM BEBISIM ❤️
+<html lang="tr" xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="description" content="SENI SEVIYORUM"> 
+  <meta name="HandheldFriendly" content="true"> 
+  <meta name="viewport" content="width=device-width, height=device-height, user-scalable=no"> 
+  <link rel="shortcut icon" type="image/png" href="seniseviyorum.png"> 
+  <link rel="apple-touch-icon" type="image/png" href="seniseviyorum.png"> 
+  <link rel="icon" type="image/png" href="seniseviyorum.png"> 
+  <title>SENI SEVIYORUM</title> 
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-730729-1');
+  </script> 
+  <style>
+  html {
+    scroll-behavior: smooth;
+  }
+  * {
+    font-family: monospace;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+  }
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: black;
+    line-height: 18px;
+    overscroll-behavior: none;
+    color: white;
+  }
+  #seniseviyorum {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  #seniseviyorum > img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  @media only screen and (max-width: 480px) {
+    #seniseviyorum {
+      padding-top: 5%;
+    }
+  }
+  #root {
+    width: 100%;
+  }
+</style> 
+ </head> 
+ <body> 
+  <div id="seniseviyorum"> 
+   <img src="/seniseviyorum.jpg" alt="SENI SEVIYORUM"> 
+  </div> 
+  <noscript>
+   SENI SEVIYORUM BEBEGIM ❤️
+  </noscript> 
+  <div id="root"></div> 
+  <script>
+/*
 
+- Sitenin yazilimi budur aq Sade Ve hos bir desen seklinde yapildi
+- Cod yazilimcisi Furkan SOYKUN.
+- BUNU MERAK ETTIGIN ICIN SIKIMI YEMEYE HAK KAZANDIN AFIYET OLSUN
 
-SITE COD'S MyXFS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-SIGN BY Furkan SOYKUN™ © 2020 ©
+*/
+</script> 
